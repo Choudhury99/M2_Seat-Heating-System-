@@ -2,10 +2,6 @@
 
 # Introduction
 The seat heating system is capable of maintaining of the temperature of seat in the vehicles.In the European countries,the temperature is very low(negative temperatures) so seat heater is an essential device which keeps the eprson warm and healthy.In our project we are mainly using the button sensor and a heater switch to sense the presence of the person and the person can vary the temperature to his requirement.The corresponding temperature is displayed.
-## Contributors List and Summary
-|PS no. |  Name   |    Features    |
-|-------|---------|----------------|
-| `99006058` | Bamini Varalaxmi |Temperature of the heater is varied|
 
 ## Folder Structure
 Folder                   | Description
@@ -21,5 +17,4 @@ Folder                   | Description
 
 [![CI](https://github.com/Choudhury99/M2_Seat-Heating-System-/actions/workflows/main.yml/badge.svg)](https://github.com/Choudhury99/M2_Seat-Heating-System-/actions/workflows/main.yml)
 [![C/C++ CI](https://github.com/Choudhury99/M2_Seat-Heating-System-/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Choudhury99/M2_Seat-Heating-System-/actions/workflows/c-cpp.yml)
-[![Code Quality](https://www.code-inspector.com/project/28088/score/svg)](https://www.code-inspector.com)
 [![GitInspector](https://github.com/Choudhury99/M2_Seat-Heating-System-/actions/workflows/git%20inspector.yml/badge.svg)](https://github.com/Choudhury99/M2_Seat-Heating-System-/actions/workflows/git%20inspector.yml)
