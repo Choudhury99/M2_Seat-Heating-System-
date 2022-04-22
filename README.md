@@ -19,7 +19,7 @@ Folder                   | Description
 `7_`Others      | Other files
 
 
-[![CI](https://github.com/Bamini-Varalaxmi/stepin_SeatHeating/actions/workflows/main.yml/badge.svg)](https://github.com/Bamini-Varalaxmi/stepin_SeatHeating/actions/workflows/main.yml)
+[![CI](https://github.com/Choudhury99/M2_Seat-Heating-System-/actions/workflows/main.yml/badge.svg)](https://github.com/Choudhury99/M2_Seat-Heating-System-/actions/workflows/main.yml)
 [![C/C++ CI](https://github.com/Bamini-Varalaxmi/stepin_SeatHeating/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Bamini-Varalaxmi/stepin_SeatHeating/actions/workflows/c-cpp.yml)
 [![Code Quality](https://www.code-inspector.com/project/28088/score/svg)](https://www.code-inspector.com)
 [![GitInspector](https://github.com/Bamini-Varalaxmi/stepin_SeatHeating/actions/workflows/git%20inspector.yml/badge.svg)](https://github.com/Bamini-Varalaxmi/stepin_SeatHeating/actions/workflows/git%20inspector.yml)
